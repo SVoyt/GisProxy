@@ -4,7 +4,8 @@ This is simple proxy which can help you to use cross-domain requests in your bro
 ## Features
 * Simplicity
 * Json config
-* Support POST queries
+* Supports POST queries
+* Supports basic authorization
 
 ## How to use
 Specify host urls in proxy.config and run request with url like: http://yourdomain/proxy.php?http://dedicateddomain/image.png. Enjoy =)
